@@ -9,9 +9,41 @@ namespace ProgramingLessons
         // Entry point
         static void Main(string[] args)
         {
-            //მონაცემთა ტიპები
 
-           // string age = "32";
+            //დავალება 1
+
+            /*შექმენი ცვლადები და გამოიტანე ეკრანზე შემდეგი ინფორმაცია
+             1 სახელი გვარი
+             2 დაბადების ადგილი
+             3 დაბადების თარიღი
+             4 მშობლების სახლი გვარი
+             სკოლის საშვალო ქულა მაგ 9,5
+             გხავს თუ არა დედმამიშვილი კი/არა
+             
+             მაშინ მისი სახელი გვარი დაბადბეის თარიღი ასაკი
+
+
+             
+            რა ფორმით უნდა გამომიტანო დავალება 
+
+            saxeli: Elene
+            gvari: Tsagareli
+            Asaki: 12
+            Dabadebis adgili: Tbilisi
+            Dabadebis Tarigi :2013
+            Dedamishvili: true
+
+             */
+
+
+
+
+
+
+
+
+            //მონაცემთა ტიპები
+            int age = 32;
 
 
             //double price = 19.99;
@@ -21,11 +53,15 @@ namespace ProgramingLessons
             //string name = "Elene elene bacho elene bacho dani ";
 
 
-           // Console.WriteLine(age);
+            Console.WriteLine(age);
            // Console.ReadKey();
 
            
             
+            
+
+
+
 
             //მონაცემები შეყვანა კონსოლიდან
             //string label = "Sheikvanet ricxvi:";
