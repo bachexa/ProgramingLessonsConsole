@@ -78,7 +78,7 @@ namespace ProgramingLessons
 
             string monacemi1 = Console.ReadLine();
 
-            int intMonacemi1 = Convert.ToInt32(monacemi1);
+            int intMonacemi1 = Convert.ToInt32(monacemi1); 
 
             string label2 = "sheikvanet meore ricxvi";
 
