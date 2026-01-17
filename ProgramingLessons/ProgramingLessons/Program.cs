@@ -96,7 +96,7 @@ namespace ProgramingLessons
 
             int gamravleba = intMonacemi1 * intMonacemi2;
 
-            int ganakopiInt = intMonacemi1 / intMonacemi2;
+            decimal ganakopiInt = intMonacemi1 / intMonacemi2;
 
 
 
@@ -120,10 +120,24 @@ namespace ProgramingLessons
 
 
              */
+            Console.WriteLine("პირველი რიცხვი შეიყვანე:");
+            double x = double.Parse(Console.ReadLine());
 
+            Console.WriteLine("მეორე რიცხვი შეიყვანე:");
+            double y = double.Parse(Console.ReadLine());
 
+            Console.WriteLine(x + " + " + y + " = " + (x + y));
+            Console.WriteLine(x + " - " + y + " = " + (x - y));
+            Console.WriteLine(x + " * " + y + " = " + (x * y));
 
-
+            if (y != 0)
+            {
+                Console.WriteLine(x + " / " + y + " = " + (x / y));
+            }
+            else
+            {
+                Console.WriteLine("ნულზე გაყოფა არ შეიძლება");
+            }
 
 
 
