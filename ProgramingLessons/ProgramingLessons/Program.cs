@@ -65,6 +65,10 @@ namespace ProgramingLessons
             a-ს b ხარისხი (Power)
 
             a % b (ნაშთი) — ყურადღება b != 0.*/
+
+
+            //1.1
+
         }
     }
 }
