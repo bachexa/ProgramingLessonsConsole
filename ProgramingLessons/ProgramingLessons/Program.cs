@@ -1,16 +1,13 @@
-﻿//Console.Write("ra gqvia? ");
-//string saxeli = Console.ReadLine();
-//Console.Write("ramdeni wlis xar? ");
-//string x = Console.ReadLine();
-//int d = Convert.ToInt16(x);
-//int y = 5;
-//int jami = d + y;
-//Console.WriteLine("ori ricxvis jami - > d + y = " + jami);
-//int g = 20;
-//int r = 10;
-//int jami2 = d + r;
-//Console.WriteLine("ori ricxvis jami - > d + r = " + jami2);
-//Console.WriteLine("me mqvia " + saxeli + " me var " + x + " wlis,  " + " 5 welshi me viqnebi " + g + " wlis, " + " 10 welshi me viqnebi " + g + " wlis.");
+﻿Console.Write("ra gqvia? ");
+string saxeli = Console.ReadLine();
+Console.Write("ramdeni wlis xar? ");
+string x = Console.ReadLine();
+int d = Convert.ToInt16(x);
+int y = 5;
+int jami = d + y;
+int r = 10;
+int jami2 = d + r;
+Console.WriteLine("me mqvia " + saxeli + " me var " + x + " wlis,  " + " 5 welshi me viqnebi " + jami +  " wlis, " + " 10 welshi me viqnebi " + jami2 + " wlis.");
 
 //int ricxvi1 = 20;
 //int ricxvi2 = 30;
