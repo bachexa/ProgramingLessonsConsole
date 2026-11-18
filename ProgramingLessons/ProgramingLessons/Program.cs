@@ -135,44 +135,97 @@
 //}
 
 
-int fa = 50;
-Console.WriteLine("erti nivtis fasi aris " +  fa + "lari.");
+//int fa = 50;
+//Console.WriteLine("erti nivtis fasi aris " +  fa + "lari.");
 
 
-int fa2 = 60;
-Console.WriteLine("meore ricxvis fasi aris " + fa2 + "lari. ");
-Console.Write("ramdeni 50 lariani nivti gnebavt -- ");
-string hh = Console.ReadLine();
-int yr = Convert.ToInt16(hh);
+//int fa2 = 60;
+//Console.WriteLine("meore ricxvis fasi aris " + fa2 + "lari. ");
+//Console.Write("ramdeni 50 lariani nivti gnebavt -- ");
+//string hh = Console.ReadLine();
+//int yr = Convert.ToInt16(hh);
 
-Console.Write("ramdeni 60 lariani nivti gnebavt -- ");
-string s = Console.ReadLine();
-int sa = Convert.ToInt16(s);
+//Console.Write("ramdeni 60 lariani nivti gnebavt -- ");
+//string s = Console.ReadLine();
+//int sa = Convert.ToInt16(s);
 
-int jami1 = yr * fa;
-Console.WriteLine(yr * fa);
-int sul = jami1;
+//int jami1 = yr * fa;
+//Console.WriteLine(yr * fa);
+//int sul = jami1;
 
-int jami2 = sa * fa2;
-Console.WriteLine(sa * fa2);
-int sul2 = jami2;
+//int jami2 = sa * fa2;
+//Console.WriteLine(sa * fa2);
+//int sul2 = jami2;
 
-int jami3 = sul + sul2;
-Console.WriteLine(sul + sul2);
-int sul3 = jami3;
-Console.Write("sul tqvenze aris -- " + jami3 + "lari.");
+//int jami3 = sul + sul2;
+//Console.WriteLine(sul + sul2);
+//int sul3 = jami3;
+//Console.Write("sul tqvenze aris -- " + jami3 + "lari.");
 
-if (sul > 200) ;
+//if (sul > 200) ;
 
-double fasdakleba = sul * 0.15;
-double saboloo = sul - fasdakleba;
-Console.WriteLine(sul -  fasdakleba);
+//double fasdakleba = sul * 0.15;
+//double saboloo = sul - fasdakleba;
+//Console.WriteLine(sul - fasdakleba);
+
+// if (sul > 100 && sul < 200) ;
+//double fasdakleba2 = sul * 0.10;
+//double sabolooo = sul - fasdakleba2;
+//Console.WriteLine (sul - fasdakleba2);
 
 
-if (sul > 100 && sul < 200) ;
-double fasdakleba2 = sul * 0.10;
-double sabolooo = sul - fasdakleba2;
-Console.WriteLine (sul - fasdakleba2);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
