@@ -240,17 +240,49 @@
 ////int qwe = biu3 - jami10;
 ////Console.WriteLine( qwe);
 
+//Console.Write("sgeikvane pirveli produqtis fasi --- ");
+//string  bm = Console.ReadLine();
+//int rm = int.Parse(bm);
+
+//Console.Write("Sheikvane ramdeni prodiqti1 iginda --- ");
+//string ha = Console.ReadLine();
+//int qe = int.Parse(ha);
+
+//Console.Write("sheikvane meore produqtis fasi --- ");
+//string vm = Console.ReadLine();
+//int yu = int.Parse(vm);
+
+//Console.Write("sheikvane produqti2 raodenoba --- ");
+//string fg = Console.ReadLine();
+//int sf = int.Parse(fg);
+
+//Console.Write("sheikvanet pasdakleba larebshi --- ");
+//string tq = Console.ReadLine();
+//int op = int.Parse(tq);
+
+//double qm = rm * qe;
+//double qw = yu * sf;
+//int pq = (int)(qm + qw);
+//int wo = pq - op;
+//Console.WriteLine(pq);
+//Console.WriteLine(wo);
 
 
+//Console.Write("sheikvane matematikis qula --- ");
+//string hk = Console.ReadLine();
+//double oa = double.Parse(hk);
 
+//Console.Write("sheikvane qartulis qula --- ");
+//string am = Console.ReadLine();
+//double qz = double.Parse(am);
 
+//Console.Write("sheikvane qimisis qula --- ");
+//string qs = Console.ReadLine();
+//double ak = double.Parse(qs);
 
-
-
-
-
-
-
+//int af =  (int)(oa + qz + ak);
+//double da = af / 3;
+//Console.WriteLine("tqveni sashualo qula aris --- " + da);
 
 
 
