@@ -286,38 +286,583 @@
 
 
 
+//Console.Write("sheikvane avtobusis tevadoba -- ");
+//string fa = Console.ReadLine();
+//int ya = int.Parse(fa);
+
+//Console.Write("sheikvanet bavshvebis raodenoba -- ");
+//string ba = Console.ReadLine();
+//int ra = int.Parse(ba);
+
+//double pa = ra / ya;
+//Console.WriteLine(Math.Round(pa, 2));
 
 
 
 
+//Console.Write("sheikvanet dasashleli tanxa -- ");
+//string faa = Console.ReadLine();
+//int sho = Convert.ToInt16(faa);
+
+//double ps = sho / 100;
+//Console.WriteLine(Math.Round(ps, 2));
+
+//double pz = sho / 50;
+//Console.WriteLine( Math.Round(pz, 2));
+
+//double oc = sho / 20;
+//Console.WriteLine(Math.Round(oc, 2));
+
+//double os = sho / 10;
+//Console.WriteLine(Math.Round(os, 2));
+
+//double px = sho / 5;
+//Console.WriteLine(Math.Round(px, 2));
+
+//double ox = sho / 1;
+//Console.WriteLine(Math.Round(ox, 2));
+
+
+
+//Console.Write("sheikvanet wamebis raodenoba -- ");
+//string pv = Console.ReadLine();
+//double on = Double.Parse(pv);
+
+//double fv = on / 3600;
+//Console.WriteLine(Math.Round(fv, 3));
+
+//double im = on / 60;
+//Console.WriteLine(Math.Round(im, 3));
+
+//double tb = on / 1;
+//Console.WriteLine(Math.Round(tb, 3));
+
+
+
+//string ou = "100 grami oqroti sheidzleba 2 xmlis an 1 faris yidva";
+//Console.WriteLine(ou);
+
+//Console.Write("sheikvanet OQROS raodenoba GRAMEBSHI --- ");
+//string fd = Console.ReadLine();
+//double le = Double.Parse(fd);
+
+//string xmali = "erti xmali girs 50 grami oqro";
+//Console.WriteLine(xmali);
+//int dz = 50;
+
+
+//string fari = "erti fari girs 100 grami oqro";
+//Console.WriteLine(fari);
+//int ob = 100;
+
+
+//double qm = le / dz;
+//Console.WriteLine(qm);
+
+//double hb = le / ob;
+//Console.WriteLine(hb);
 
 
 
 
+//Console.Write("ramdeni arid biujeti --- ");
+//string ga = Console.ReadLine();
+//int ys = int.Parse(ga);
+
+//Console.Write("ramdeni aris sakvebis xarji -- ");
+//string bv = Console.ReadLine();
+//int oz = int.Parse(bv);
+
+//Console.Write("ramdeni aris fartis xarji --- ");
+//string fz = Console.ReadLine();
+//int yf = int.Parse(fz);
+
+//Console.Write("ramdeni aris dekoraciis xarji --- ");
+//string it = Console.ReadLine();
+//int ye = int.Parse(it);
+
+//Console.Write("ra girs bileti --- ");
+//string hz  = Console.ReadLine();
+//int ra  = int.Parse(hz);
+
+//Console.Write("ramdeni adamiani movida --- ");
+//string gm = Console.ReadLine();
+//int ya = int.Parse(gm);
+
+//int hq = oz + ye + yf;
+//Console.WriteLine(hz);
+//int ox = int.Parse(hz);
+
+//double op = ra * ya;
+//Console.WriteLine(op);
+
+//int yd = ys - ox;
+//Console.WriteLine(yd);
+
+//int jm = (int)(yd + op);
+//Console.WriteLine(jm);
+
+
+
+using System.ComponentModel.Design;
+using System.Diagnostics;
+
+string ils = "                         IF ELSE            ";
+Console.WriteLine(ils);
+
+
+//Console.Write("chaweret pitveli ricxvi ---  ");
+//string ri = Console.ReadLine();
+//int ya = int.Parse(ri);
+
+//Console.Write("cahweret meore ricxvi --- ");
+//string hs = Console.ReadLine();
+//int ga = int.Parse(hs);
+
+//Console.Write("airchiet operacia: +, -, *, /. --- ");
+//string operation = Console.ReadLine();
+
+//if (operation == "+")
+//{
+//    Console.WriteLine(ya + ga);
+//}
+//if (operation == "-") ;
+//{
+//    Console.WriteLine(ya - ga);
+//}
+//if (operation == "*") ;
+//{
+//    Console.WriteLine(ya * ga);
+//}
+//if (operation == "/") ;
+//{
+//    Console.WriteLine(ya / ga);
+//}
+
+
+
+//Console.Write("ricxvi1 -- ");
+//string d = Console.ReadLine();
+//int e = Convert.ToInt16(d);
+//Console.Write("ricxvi2 -- ");
+//string f = Console.ReadLine();
+//int q = Convert.ToInt16(f);
+//double o = e / q;
+//Console.WriteLine(o);
+//double v = Convert.ToDouble(o);
+//if (q != 0) ;
+//else
+//    Console.WriteLine("nulze gayofa akrdzalulia ");
+
+//Console.Write("ricxvi 1 -- ");
+//string b = Console.ReadLine();
+//int bb = Convert.ToInt16(b);
+
+//Console.Write("ricxvi 2 -- ");
+//string rt = Console.ReadLine();
+//int qw = Convert.ToInt16(rt);
+
+//Console.Write("airchie moqmedeba: +,-,*,/,");
+//string operation = Console.ReadLine();
+
+//if (operation == "+") ;
+//Console.WriteLine(bb + qw);
+
+
+// if (operation == "-") ;
+//Console.WriteLine(bb - qw);
+
+
+// if (operation == "*") ;
+//Console.WriteLine(bb * qw);
+
+
+// if (operation == "/") ;
+//Console.Write(bb / qw);
+//if (qw != 0) ;
+
+//else
+//    Console.WriteLine("i
 
 
 
 
+//Console.Write("dabewdet ricxvi --- ");
+//string gf = Console.ReadLine();
+//int ys = int.Parse(gf);
+
+//if (ys > 0) 
+//{
+//    Console.WriteLine("tqveni ricxvi aris dadebiti");
+//    Console.WriteLine(ys * 2);
+//}
+//if (ys < 0) 
+//{
+//    Console.WriteLine("tqveni ricxvi aris uaryofiti");
+//}
+//else {
+//} 
 
 
 
 
+//Console.Write("chaweet tqveni saxeli --- ");
+//string hp = Console.ReadLine();
+
+//Console.Write("sheikvanet tqveni asaski --- ");
+//string gx = Console.ReadLine();
+//int yx = int.Parse(gx);
+
+//if (yx >= 0) ;
+//{
+//    Console.WriteLine("tqven xart srulwlovani ");
+//}
+//if (yx < 18) ;
+//{
+//    Console.WriteLine("tqven ar xart srul wlovani");
+//} 
+//if (yx < 0) ;
+//{
+//    Console.WriteLine("asaki araa swori sheasworet ");
+//}
+//if (yx > 120) ;
+//{
+//    Console.WriteLine("asaki araa swori sheasworet");
+//}
+
+
+//Console.Write("chaweret migebuli qula 0-100 --- ");
+//string fx = Console.ReadLine();
+//double px = double.Parse(fx);
+
+//if (px >= 90) ;
+//{
+//    Console.WriteLine("excellent");
+//}
+//if (px <= 100) ;
+//{
+//    Console.WriteLine("excellent");
+//}
+//if (px >= 70) ;
+//{
+//    Console.WriteLine("good");
+//}
+//if (px <= 89) ;
+//{
+//    Console.WriteLine("good");
+//}
+//if (px >= 50) ;
+//{
+//    Console.WriteLine("passed");
+//}
+//if (px <= 69) ;
+//{
+//    Console.WriteLine("passed");
+//}
+//if (px >=0) ;
+//{
+//    Console.WriteLine("failed");
+//}
+//if (px <= 49) ;
+//{
+//    Console.WriteLine("failed");
+//}
+
+
+//Console.Write("SHEIKVANET TEMPERSTURA --- ");
+//string pa = Console.ReadLine();
+//double ps = double.Parse(pa);
+
+//if (ps < 0) ;
+//{
+//    Console.WriteLine("frizzing");
+//}
+//if (ps >= 0) ;
+//{
+//    Console.WriteLine("cold");
+//}
+//if (ps <= 15) ;
+//{
+//    Console.WriteLine("cold");
+//}
+//if (ps > 15) ;
+//{
+//    Console.WriteLine("WARM");
+//}
+//if (ps < 25) ;
+//{
+//    Console.WriteLine("warm");
+//}
+//if (ps > 25) ;
+//{
+//    Console.WriteLine("hot");
+//}
 
 
 
 
+//Console.Write("sheikvane tqvenni balansi --- ");
+//string gl = Console.ReadLine();
+//int ds = int.Parse(gl);
+
+//Console.Write("sheikvane gamosatai tanxa --- ");
+//string ga = Console.ReadLine();
+//int rs = int.Parse(ga);
+
+//if (ds > 0) ;
+//{
+//    Console.WriteLine("ganaxdeba sheidzleba ");
+//}
+//if (rs > 0) 
+//{
+//    Console.WriteLine("ganageba shesruldeba ");
+//}
+//else { 
+//}
+//Console.WriteLine("operacia shewyvetilia");
+
+
+//int fg = 50;
+//Console.WriteLine("PRODUQTI 1 girs " + fg);
+
+//int yg = 75;
+//Console.WriteLine("PRODUQTI 2 girs " +  yg);
+
+//Console.Write("ramdeni PRODUQTI 1 gnebavt --- ");
+//string ga = Console.ReadLine();
+//int fx = int.Parse(ga);
+
+//double pa = fg * fx;
+//Console.WriteLine(pa);
+
+//Console.Write("ramdeni produqti 2 gnebavt --- ");
+//string ls = Console.ReadLine();
+//int yc = int.Parse(ls);
+
+//double ka = yg * yc;
+//Console.WriteLine(ka);
+
+//int bc =(int)(pa + ka);
+//Console.WriteLine("jami --- " + bc);
+
+//if (bc >= 200) ;
+//{
+//    Console.WriteLine(bc - bc * 15 / 100);
+//}
+//if (bc > 100) ;
+//{
+//    Console.WriteLine(bc - bc * 10 / 100);
+//}
+//if (bc < 200) 
+//{
+//    Console.WriteLine(bc - bc * 10 / 100);
+//}
+//else {
+//}
 
 
 
+//Console.Write("ramdeni wis xar --- ");
+//string gf = Console.ReadLine();
+//int yd = int.Parse(gf);
+
+//Console.Write("ramdeni bileti gnebavt --- ");
+//string gc = Console.ReadLine();
+//int ba = int.Parse(gc);
+
+//if (yd < 12) ;
+//{
+//    Console.WriteLine(ba * 10);
+//}
+//if (yd >= 12) ;
+//{
+//    Console.WriteLine(ba * 15);
+//}
+//if (yd <= 17) ;
+//{
+//    Console.WriteLine(ba * 15);
+//}
+//if (yd > 18) 
+//{
+//    Console.WriteLine(ba * 20);
+//}
+//else { 
+//}
 
 
 
+//double xp = 4.95;
+//Console.WriteLine("erti litri PREMIUM sawvavis fasi aris --- " + xp);
+
+//Console.Write("ramdeni litri gnebavt --- ");
+//string gc = Console.ReadLine();
+//int pm = int.Parse(gc);
+
+//Console.Write(" ramdeni gaqvt fuli --- ");
+//string pq = Console.ReadLine();
+//int mq = int.Parse(pq);
+
+//double pa = (double)xp * pm;
+//Console.WriteLine(pm + "litris fasi aris " + pa + "lari");
+
+//if (mq < pa) ;
+//{
+//    Console.WriteLine("ara sakmaris tanxa ");
+//}
+//if (mq > pa)
+//{
+//    Console.WriteLine("dadasturebulia");
+//}
+//else
+//{
+//}
+
+
+//Console.Write("sheikavent pirveli gverdis sigrdze --- ");
+//string gv = Console.ReadLine();
+//int gv1 = int.Parse(gv);
+
+//Console.Write("sheikvanet meore gverdis sigrdze --- ");
+//string fcv = Console.ReadLine();
+//int gv2 = int.Parse(gv);
+
+//Console.Write("sheikvanet mesame gverdis sigrdze --- ");
+//string ga = Console.ReadLine();
+//int gv3 = int.Parse(gv);
+
+//if (gv1 > 0) ;
+//{
+//    Console.WriteLine();
+//}
+//if (gv2 > 0) ;
+//{
+//    Console.WriteLine();
+//}
+//if (gv3 > 0) ;
+//{
+//    Console.WriteLine();
+//}
+//if (gv1 + gv2 > gv3) ;
+//{
+//    Console.WriteLine("samkutxedi sworia ");
+//}
+//if (gv2 + gv3 > gv1) ;
+//{
+//    Console.WriteLine("samkutxedi sworia ");
+//}
+//if (gv1 + gv3 > gv2) 
+//{
+//    Console.WriteLine("samkutxedi sworia ");
+//}
+//else { 
+//}
+
+//int perimetr = gv1 + gv2 + gv3;
+//Console.WriteLine("perimetr = " +  perimetr);
+
+
+//int sa = 50;
+//Console.WriteLine("erti saatshi gamoimushaveb " + sa + "lars");
+
+//Console.Write("ramdei xani imushave --- ");
+//string pss = Console.ReadLine();
+//int sa1 = int.Parse(pss);
+
+//if (sa1 > 40) 
+//{
+//    Console.WriteLine(sa * 1.5);
+//}
+//else {
+//}
+
+
+//Console.Write("chaweret ricxvi --- ");
+//string apk = Console.ReadLine();
+//int yya = int.Parse(apk);
+
+//Console.Write("chaweerrt meore ricxvi --- ");
+//string pqw = Console.ReadLine();
+//int wqp = int.Parse(pqw);
+
+//if (yya > wqp) ;
+//{
+//    Console.WriteLine(yya);
+//}
+//if (yya < wqp) 
+//{
+//    Console.WriteLine(wqp);
+//}
+//else {
+//}
 
 
 
+//Console.Write("chaweret ramdei laris shekvetet --- ");
+//string gaa = Console.ReadLine();
+//int gga = int.Parse(gaa);
+
+//Console.Write("cahweret ramdeni km aris gasavleli tqvenamde (MANDZILI CHAWERET KM-SHI) --- ");
+//string la = Console.ReadLine();
+//int lla = int.Parse(la);
+
+//if (lla > 0) ;
+//{
+//    Console.WriteLine(lla + 3);
+//}
+//if (lla < 3) ;
+//{
+//    Console.WriteLine(lla + 3);
+//}
+//if (lla > 3) ;
+//{
+//    Console.WriteLine(lla + 6);
+//}
+//if (lla < 10) ;
+//{
+//    Console.WriteLine(lla +6);
+//}
+//if (lla > 10) ;
+//{
+//    Console.WriteLine(la + 10);
+//}
+//if (gga > 100) 
+//{
+//    Console.WriteLine(gaa);
+//}
+//else {
+//}
 
 
 
+//int ppa = 100;
+//Console.WriteLine(ppa);
+
+//Console.Write("sheikvanet ziani --- ");
+//string waa = Console.ReadLine();
+//int was = int.Parse(waa);
+
+//Console.Write("sheikvanet agdgena --- ");
+//string gas = Console.ReadLine();
+//int fas = int.Parse(gas);
+
+//if (was < ppa) ;
+//{
+//    Console.WriteLine(ppa - was);
+//}
+//if (was > 0) ;
+//{
+//    Console.WriteLine();
+//}
+//if (fas < was) ;
+//{
+//    Console.WriteLine(ppa - was + fas);
+//}
+//if (was > 0) 
+//{
+//    Console.WriteLine();
+//}
+//else {
+//}
 
 
 
